@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import fun from './fun.jpg';
 import './App.css';
 // have to learn to pass click event from children to parent
-//import Text from './Text';
 
 // create hex-randomColor for the background(call this func later to get Hex-Code)
 const randomColor = () => {
