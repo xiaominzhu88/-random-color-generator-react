@@ -1,3 +1,5 @@
-A random color generator web application using React.
+# A random color generator web application created by React
 
-There are two buttons, click on each of them will change the backgroundcolor and textcolor, it will also show the Hex-code and color name from the instence color
+Click on each of the button, backgroundcolor and textcolor will be changed randomly
+
+Background-color button shows the Hex-code from background color, text-color button shows name from the text color
